@@ -1,10 +1,3 @@
-rootProject.name = "profession_classification"
 
-include("m1l1-hello")
+rootProject.name = "untitled1"
 
-pluginManagement {
-    val kotlinVersion: String by settings
-    plugins {
-        kotlin("jvm") version kotlinVersion apply false
-    }
-}
